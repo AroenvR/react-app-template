@@ -1,0 +1,12 @@
+// Setting sass variables.
+$primary-font: Calibri, sans-serif;
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#App {
+  font-family: $primary-font;
+}
+
