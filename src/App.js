@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 
 import './App.scss';
-import PlayVsPlay from './components/PlayVsPlay';
+import Component from './components/Component';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
 
       <Routes>
 
-        <Route path="/*" element={<PlayVsPlay />} />
+        <Route path="/*" element={<Component/>} />
         
       </Routes>
 

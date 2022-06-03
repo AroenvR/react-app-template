@@ -1,6 +1,6 @@
 {
-  "short_name": "Chesserz",
-  "name": "Chezzers - the AFK Chess game",
+  "short_name": "React Application Template",
+  "name": "Create React App Template",
   "icons": [
     {
       "src": "favicon.ico",
