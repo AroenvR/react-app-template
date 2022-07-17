@@ -1,6 +1,5 @@
 # Welcome to my application template.
 
-This folder already is a Git repository.  
 .gitignore has been configured.
 
 The following dependencies have been added and configured:  
@@ -21,3 +20,7 @@ Go to repository settings -> pages ->
 
 
 When pushing new code, remember to execute npm run deploy to update the gh-pages branch.
+
+TODO: Setup Jest, react-testing-library and Cypress  
+TODO: Create tests  
+TODO: Security? Gotta learn.
